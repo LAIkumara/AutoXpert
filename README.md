@@ -1,7 +1,5 @@
 # AutoXpert - Vehicle Damage Detection System
 
-![AutoXpert Logo](https://via.placeholder.com/150x50?text=AutoXpert)
-_(Replace with your actual logo)_
 
 Smart AI-powered solutions for vehicle damage assessment and repair cost estimation.
 
