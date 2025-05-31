@@ -1,0 +1,3 @@
+from .tire_segmentation_controller import tire_segmentation
+from .damage_detection_controller import damage_detection
+from .vehicle_classification_controller import vehicle_classification
